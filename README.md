@@ -1,35 +1,26 @@
 <<<<<<< HEAD
-# Playwright Automation – DemoQA
+# 100DaysOfTesting
 
-This repository contains **end-to-end UI automation** for [DemoQA](https://demoqa.com/) built with **Playwright**.  
-It showcases my ability to design, write, and organize automated test cases for real-world scenarios.
-
----
-
-## 📌 Highlights
-- Automated **forms, tables, alerts, frames, modals, widgets, and interactions**.  
-- Covered **file upload/download**, **searchable dropdowns**, **multiple windows/tabs**, and **iframes**.  
-- Validated **broken links/images** and tested **Book Store Application** workflows (login, search, add/remove books).  
-- Applied **Playwright best practices**: locators (`getByRole`, `getByLabel`, `getByText`), assertions, waits, and reusable test structure.  
-- Tests organized by **feature/page** for maintainability.  
+This repository documents my 100-day journey into mastering **Software Testing**.  
+The focus is on building hands-on skills across different testing types, tools, and domains while creating a strong portfolio of practical work.
 
 ---
 
-## 🛠 Tools
-- **Playwright** (Test runner + automation)  
-- **Node.js**  
-- **VS Code + GitHub**  
+## 📌 Goals
+- Become highly skilled in **UI automation with Playwright (TypeScript/JavaScript)**.  
+- Gain expertise in **API automation with Postman/Newman and Rest Assured**.  
+- Explore **performance testing** using open-source tools.  
+- Practice **security testing** basics on safe, intentionally vulnerable applications.  
+- Build a professional testing portfolio that demonstrates real-world scenarios.
 
+---
 
-🎯 Key Takeaway
+## 🛠️ Tech Stack
+- **UI Automation**: Playwright (JavaScript/TypeScript)  
+- **API Automation**: Postman, Newman, Rest Assured  
+- **Performance**: JMeter, k6 (where applicable)  
+- **Security**: OWASP tools and test practices  
 
-This project demonstrates my ability to:
-
-Automate complex UI scenarios.
-
-Write clean, reliable tests.
-
-Apply skills in a realistic QA project setting
 ---
 
 ## 🚦 Running the Tests
@@ -46,6 +37,7 @@ This repository contains my practice tests as I learn **Playwright** automation 
 The focus is on testing real-world demo apps:
 
 - **Week 1:** [DemoQA](https://demoqa.com) – Forms, checkboxes, dropdowns, tables, alerts.
+- **Week 2:** [The Internet (Herokuapp)](https://the-internet.herokuapp.com) – Login, alerts, dynamic loading, file upload.
 
 ## ✅ Goals
 - Master Playwright basics (`page.goto`, `locator`, `getByRole`, `getByText`).
