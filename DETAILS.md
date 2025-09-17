@@ -1,4 +1,4 @@
-# Playwright Automation – DemoQA
+# 100DaysOfTesting – DemoQA
 
 This project contains automated tests for the [DemoQA](https://demoqa.com/) application using **Playwright**.  
 The goal is to practice and demonstrate end-to-end UI automation across multiple sections of the DemoQA site.
