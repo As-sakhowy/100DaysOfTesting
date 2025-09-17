@@ -46,7 +46,6 @@ This repository contains my practice tests as I learn **Playwright** automation 
 The focus is on testing real-world demo apps:
 
 - **Week 1:** [DemoQA](https://demoqa.com) – Forms, checkboxes, dropdowns, tables, alerts.
-- **Week 2:** [The Internet (Herokuapp)](https://the-internet.herokuapp.com) – Login, alerts, dynamic loading, file upload.
 
 ## ✅ Goals
 - Master Playwright basics (`page.goto`, `locator`, `getByRole`, `getByText`).
