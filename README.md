@@ -1,68 +1,66 @@
 <<<<<<< HEAD
-# Playwright Automation – DemoQA
+# 100DaysOfTesting
 
-This repository contains **end-to-end UI automation** for [DemoQA](https://demoqa.com/) built with **Playwright**.  
-It showcases my ability to design, write, and organize automated test cases for real-world scenarios.
-
----
-
-## 📌 Highlights
-- Automated **forms, tables, alerts, frames, modals, widgets, and interactions**.  
-- Covered **file upload/download**, **searchable dropdowns**, **multiple windows/tabs**, and **iframes**.  
-- Validated **broken links/images** and tested **Book Store Application** workflows (login, search, add/remove books).  
-- Applied **Playwright best practices**: locators (`getByRole`, `getByLabel`, `getByText`), assertions, waits, and reusable test structure.  
-- Tests organized by **feature/page** for maintainability.  
+This repository documents my 100-day journey into mastering **Software Testing**.  
+The focus is on building hands-on skills across different testing types, tools, and domains while creating a strong portfolio of practical work.
 
 ---
 
-## 🛠 Tools
-- **Playwright** (Test runner + automation)  
-- **Node.js**  
-- **VS Code + GitHub**  
+## 📌 Goals
+- Become highly skilled in **UI automation with Playwright (TypeScript/JavaScript)**.  
+- Gain expertise in **API automation with Postman/Newman and Rest Assured**.  
+- Explore **performance testing** using open-source tools.  
+- Practice **security testing** basics on safe, intentionally vulnerable applications.  
+- Build a professional testing portfolio that demonstrates real-world scenarios.
 
-
-🎯 Key Takeaway
-
-This project demonstrates my ability to:
-
-Automate complex UI scenarios.
-
-Write clean, reliable tests.
-
-Apply skills in a realistic QA project setting
 ---
 
-## 🚦 Running the Tests
-```bash
-npm install
-npx playwright test
-=======
-# playwright-foundations
-Practice repo for mastering Playwright automation with demo apps (DemoQA, Herokuapp)
+## 🛠️ Tech Stack
+- **UI Automation**: Playwright (JavaScript/TypeScript)  
+- **API Automation**: Postman, Newman, Rest Assured  
+- **Performance**: JMeter, k6 (where applicable)  
+- **Security**: OWASP tools and test practices  
 
-# Playwright Foundations 🚀
+---
 
-This repository contains my practice tests as I learn **Playwright** automation step by step.  
-The focus is on testing real-world demo apps:
+## 📚 Practice Apps
+I’ll be testing on a range of open-source and demo apps, from beginner-friendly to advanced:
 
-- **Week 1:** [DemoQA](https://demoqa.com) – Forms, checkboxes, dropdowns, tables, alerts.
-- **Week 2:** [The Internet (Herokuapp)](https://the-internet.herokuapp.com) – Login, alerts, dynamic loading, file upload.
+### Beginner Level (Playwright foundations)
+- [DemoQA](https://demoqa.com/) – forms, checkboxes, tables, alerts  
+- [The Internet (Herokuapp)](https://the-internet.herokuapp.com/) – dozens of small automation challenges  
+- [SauceDemo](https://www.saucedemo.com/) – full e-commerce flow  
 
-## ✅ Goals
-- Master Playwright basics (`page.goto`, `locator`, `getByRole`, `getByText`).
-- Write stable, non-flaky tests.
-- Learn screenshot & video recording.
-- Automate 10+ scenarios confidently.
+### Intermediate Level
+- [OrangeHRM](https://opensource-demo.orangehrmlive.com/) – HR workflows  
+- [Parabank](https://parabank.parasoft.com/parabank/index.htm) – banking operations  
+- [Bookshelf App](https://github.com/GoogleCloudPlatform/getting-started-java/tree/master/bookshelf) – CRUD sample app  
 
-## 📂 Structure
-- `tests/demoqa/` → All DemoQA scenarios.
-- `tests/herokuapp/` → All Herokuapp scenarios.
+### Advanced Level
+- [RealWorld App](https://github.com/gothinkster/realworld) – Medium.com clone with APIs  
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) – deliberately insecure e-commerce site  
 
-## 🛠️ Setup
-Clone the repo and install dependencies:
-```bash
-git clone https://github.com/<your-username>/playwright-foundations.git
-cd playwright-foundations
-npm install
->>>>>>> d8efa59eb2d5373a5684f3e0e15fa455248d8a05
+### Pro Level
+- [ERPNext](https://erpnext.com/open-source) – full ERP system  
+- [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) – healthcare management system  
 
+---
+
+## 📅 Progress
+I’ll be updating daily with:
+- Test scripts and scenarios  
+- Notes, learnings, and gotchas  
+- Links to related blog posts or LinkedIn/Twitter updates  
+
+---
+
+## 🌍 Connect
+Follow along with my journey:  
+- [LinkedIn](https://linkedin.com/in/your-profile)  
+- [Twitter](https://twitter.com/your-handle)  
+
+---
+
+## ⚡ Inspiration
+This project is inspired by the spirit of **100DaysOfCode**, but with a focus on **testing**.  
+By the end of 100 days, this repo will serve as a **living portfolio** of my QA and automation skills.
